@@ -17,4 +17,4 @@ During 3-way TCP Handshake, if receiver is ECN-Capable, then the ECE flag is set
 
 ![ECN-Survey](survey.png)
 
-According to a survey of 500 websites, 54% use ECN
+According to a survey of 500 websites, 54% use ECN. Website list obtained from https://moz.com/top500
